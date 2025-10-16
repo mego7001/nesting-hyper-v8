@@ -1,0 +1,14 @@
+{
+  "spacing": {
+    "part_to_part": 2.0,
+    "margin": 5.0
+  },
+  "genetic_algorithm": {
+    "population_size": 100,
+    "generations": 200,
+    "rotation_angles": [0, 90, 180, 270]
+  },
+  "file_paths": {
+    "recent_files_limit": 10
+  }
+}
